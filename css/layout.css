@@ -58,8 +58,8 @@ header .banner {
 
 header .banner-text {     
     width: 100%;
-    background-color: rgba(0, 100, 155, 0.5);
-    padding: 10px 0px 5px 0px;
+    background-color: rgba(0, 102, 153, 0.5);
+    padding: 25px 0px 5px 0px;
     border-radius: 20px;
     border-style: solid;
     border-width: 5px;
@@ -188,7 +188,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #006699; }
 
 
 /* ------------------------------------------------------------------ */
