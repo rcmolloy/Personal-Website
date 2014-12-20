@@ -131,6 +131,10 @@ a:after {
     padding: 0px 0px 25px 0px;
 }
 
+.single-icon {
+    padding: 5px;
+}
+
 /* Helpers */
 
 .mt {
