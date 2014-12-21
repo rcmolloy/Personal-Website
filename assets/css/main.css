@@ -48,7 +48,7 @@ p {
 
 /* Links */
 a {
-    color: #1abc9c;
+    color: #006699;
     word-wrap: break-word;
 
     -webkit-transition: color 0.1s ease-in, background 0.1s ease-in;
@@ -60,7 +60,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #7b7b7b;
+    color: #666666;
     text-decoration: none;
     outline: 0;
 }
@@ -132,7 +132,7 @@ a:after {
 }
 
 .single-icon {
-    padding: 5px;
+    padding-right: 5px;
 }
 
 /* Helpers */
