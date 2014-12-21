@@ -46,6 +46,19 @@ p {
     text-align: center;
 }
 
+.quote {
+    font-size: 20px;
+    color: #ffffff;
+    font-style: italic;
+}
+
+.author {
+    font-size: 16px;
+    color: #ffffff;
+    padding-top: 10px;
+}
+
+
 /* Links */
 a {
     color: #006699;
@@ -98,7 +111,7 @@ a:after {
 
 .navbar-inverse {
 	background-color: #006699;
-	border-color: #16a085;
+	border-color: #006699;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -159,8 +172,8 @@ a:after {
 
 #footer {
 	background-color: #2f2f2f;
-	padding-top: 50px;
-	padding-bottom: 50px; 
+	padding-top: 25px;
+    padding-bottom: 25px;
 }
 
 #footer p {

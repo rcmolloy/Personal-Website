@@ -1,0 +1,35 @@
+/*
+Robert Cory Molloy
+Random Quote Generator
+Version 1.0
+Copyright 2014
+*/
+
+// Address Quote & Author Array
+
+var quote = [];
+var author = [];
+
+// Quote 1
+
+quote[0] = "Quote1";
+author[0] = "Author1";
+
+// Quote 2
+
+quote[1] = "Quote2";
+author[1] = "Author2";
+
+// Quote 3 
+quote[2] = "Quote3";
+author[2] = "Author3";
+
+// Calculate Random Number
+var calcNumb = Math.floor(Math.random() * quote.length);
+
+// Show Quotation
+
+var quote = quote[calcNumb,1];
+var author = author[calcNumb,2];
+
+//Script Done
