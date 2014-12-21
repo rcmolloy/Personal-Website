@@ -1,6 +1,6 @@
 /*
  * Robert Cory Molloy
- * Site Version - 1.0
+ * Version 1.0
  * Copyright 2014
  *
  * Original Site Template by Carlos Alvarez (http://www.alvarez.is)
@@ -56,6 +56,7 @@ p {
     font-size: 16px;
     color: #ffffff;
     padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 
@@ -177,13 +178,15 @@ a:after {
 }
 
 #footer p {
-	color: white;
+	color: #ffffff;
+    font-size: 14px;
 }
+
 
 #footer h4 {
 	color: white;
 	text-transform: uppercase;
-	padding-bottom: 20px;
+	padding-bottom: 5px;
 }
 
 
@@ -261,4 +264,10 @@ bt {
 .glyphicon {
 	font-size: 40px;
 	color: #1abc9c;
+}
+
+/* Footer */
+
+.site-tools {
+    text-align: center;
 }

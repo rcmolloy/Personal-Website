@@ -21,7 +21,7 @@ quote[1] = "Life is 10% what happens to you and 90% how you react to it.";
 author[1] = "Charles R. Swindoll";
 
 // Quote 3 
-quote[2] = "Faiulre is the key to success; each mistake teaches up something.";
+quote[2] = "Failure is the key to success; each mistake teaches up something.";
 author[2] = "Morihei Ueshiba";
 
 // Quote 4 
