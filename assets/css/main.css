@@ -1,10 +1,10 @@
 /*
- * Author: Carlos Alvarez
- * URL: http://alvarez.is
+ * Robert Cory Molloy
+ * Site Version - 1.0
+ * Copyright 2014
  *
- * Project Name: STANLEY - Free Bootstrap 3 Theme
- * Version: 1.0
- * URL: http://blacktie.co
+ * Original Site Template by Carlos Alvarez (http://www.alvarez.is)
+ *
  */
 
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
@@ -151,7 +151,7 @@ a:after {
 /* +++++ WRAP SECTIONS +++++ */
 
 #ww {
-	padding-top: 150px;
+	padding-top: 125px;
 	padding-bottom: 70px;
 	background-color: #f2f2f2;
 }
