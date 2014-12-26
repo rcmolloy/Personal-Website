@@ -59,6 +59,14 @@ p {
     padding-bottom: 20px;
 }
 
+.personal_exp {
+    font-size: 14px;
+}
+
+.inv_icon {
+    color: #006699;
+    padding-bottom: 10px;
+}
 
 /* Links */
 a {
@@ -138,7 +146,7 @@ a:after {
 }
 
 .progress-bar-theme {
-  background-color: #1abc9c;
+  background-color: #006699;
 }
 
 .top-icons {
@@ -157,8 +165,8 @@ a:after {
 }
 
 .pt {
-	padding-top: 50px;
-	padding-bottom: 50px;
+	padding-top: 25px;
+	padding-bottom: 10px;
 }
 
 
@@ -189,6 +197,9 @@ a:after {
 	padding-bottom: 5px;
 }
 
+#alternate {
+    background-color: #f2f2f2;
+}
 
 /* +++++ Color Wraps / Blog Page +++++ */
 
