@@ -28,6 +28,15 @@ author[2] = "Morihei Ueshiba";
 quote[3] = "We keep moving forward, opening new doors, and doing new things, because we're curious and curiousity keeps leading us down new paths.";
 author[3] = "Walt Disney";
 
+// Quote 5
+quote[4] = "The best revenge is massive success.";
+author[4] = "Frank Sinatra";
+
+// Quote 6
+quote[5] = "There's always a light at the end of the tunnel. But because of the odd twists and turns, you sometimes just can't see it.";
+author[5] = "Anonymous";
+
+
 // Calculate Random Number
 var calcNumb = Math.floor(Math.random() * quote.length);
 
